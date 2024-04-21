@@ -13,3 +13,7 @@ O
 src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
 I
 src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
+h
+8src/main/java/org/nucleus/controller/HomeController.java,4\0\404102fd6fc7d822ac8d11b31d5cfaecf84ce0c6
+Y
+)src/main/webapp/WEB-INF/views/display.jsp,4\4\44bad61320674243f96786c8fd2d944d25dfeed8

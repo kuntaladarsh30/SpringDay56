@@ -1,4 +1,8 @@
 
-Web:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ8ïÖ±úï1J$c76df076-6962-4d06-be9a-cf31cab9ae34
-‡	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ8ğÖ±úï1J$cd31a9fa-7cf0-4be0-975a-80d762cce8d4
-€Web:UnsupportedTagsInHtml5Check"(Remove this deprecated "center" element.(¡á€Ò8»Ü¶úï1J$6436d25d-9d47-486f-9afb-ba589aeeac7d
+Web:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ8ïÖ±úï1J$49b5ad6c-4527-4afd-99be-769801d028e6
+‡	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ8ğÖ±úï1J$018bf92e-a364-48b8-84e9-a2b359e739e1
+€Web:UnsupportedTagsInHtml5Check"(Remove this deprecated "center" element.(¡á€Ò8»Ü¶úï1J$545e3d2d-fee5-4805-9eb3-168d5205e691
+—	Web:S6827
+"PAnchors must have content and the content must be accessible by a screen reader.(ïÛˆÔıÿÿÿÿ8†¯¶ğ1J$a2e60a61-9750-4fa4-b415-a37a87c5c846
+—	Web:S6827"PAnchors must have content and the content must be accessible by a screen reader.(‡ıÈëûÿÿÿÿ8†¯¶ğ1J$8b8fcca8-1a50-4dcd-9555-ccc67787ce66
+—	Web:S6827"PAnchors must have content and the content must be accessible by a screen reader.(©µ§½úÿÿÿÿ8†¯¶ğ1J$cd0539d3-abad-46e2-bc59-6fb9bf752eae
