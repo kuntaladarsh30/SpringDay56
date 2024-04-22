@@ -11,6 +11,7 @@
 <button> <a href="helloUser?username=Adarsh" />Ouestion 2</button>
 <button> <a href="helloUserModelAndView?username=Kuntal" />Ouestion 3</button>
 <button> <a href="referer" />Ouestion 4</button>
+<button> <a href="webapp/WEB-INF/views/GetCustomerDetails.jsp" />Ouestion 5</button>
 
 
 </center>
